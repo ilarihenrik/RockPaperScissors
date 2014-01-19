@@ -1,7 +1,7 @@
 package main;
 
 /**
- * Created by ilari on 19.01.14.
+ * Created by ilari henrik aegerter on 19.01.14.
  */
 public class ComputerWeapon {
 

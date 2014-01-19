@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 
 /**
- * Created by ilari on 18.01.14.
+ * Created by ilari henrik aegerter on 18.01.14.
  */
 public class Start {
 
@@ -22,7 +22,7 @@ public class Start {
        System.out.println("Choose your Weapon: ");
 
 
-       // Reads a integer from the console
+       // Reads an integer from the console
        // and stores into playerWeapons variable in gameStatus
        gameStatus.setPlayerWeapon(in.nextInt());
        in.close();

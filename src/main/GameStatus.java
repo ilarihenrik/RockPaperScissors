@@ -9,7 +9,6 @@ public class GameStatus {
     public int getPlayerWeapon() {
         return playerWeapon;
     }
-
     public void setPlayerWeapon(int playerWeapon) {
         this.playerWeapon = playerWeapon;
     }
@@ -17,7 +16,6 @@ public class GameStatus {
     public int getComputerWeapon() {
         return computerWeapon;
     }
-
     public void setComputerWeapon(int computerWeapon) {
         this.computerWeapon = computerWeapon;
     }
