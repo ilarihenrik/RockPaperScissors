@@ -12,7 +12,8 @@ public class ComputerWeapon {
     private int MIN = 1;
     private int MAX = 3;
 
-    int computerWeapon = MIN + (int)(Math.random() * ((MAX - MIN) + 1));
+    private int computerWeapon = MIN + (int)(Math.random() * ((MAX - MIN) + 1));
+
 
     }
 
