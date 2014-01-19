@@ -19,7 +19,7 @@ public class Start {
        System.out.println("1 for Rock");
        System.out.println("2 for Paper");
        System.out.println("3 for Scissors");
-       System.out.println("Choose your playerWeapon: ");
+       System.out.println("Choose your Weapon: ");
 
 
        // Reads a integer from the console

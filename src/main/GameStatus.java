@@ -26,11 +26,6 @@ public class GameStatus {
         return winner;
     }
 
-           //public void setWinner(String winner) {
-           //     this.winner = winner;
-           // }
-
-
     public void findWinner() {
 
         if (playerWeapon == 1 && computerWeapon == 3) {
